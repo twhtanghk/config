@@ -1,0 +1,22 @@
+{
+  "name": "config",
+  "version": "0.0.1",
+  "description": "SailsJS similar config loader",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "coffee test/index.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twhtanghk/config.git"
+  },
+  "author": "Tommy Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twhtanghk/config/issues"
+  },
+  "homepage": "https://github.com/twhtanghk/config#readme",
+  "dependencies": {
+    "coffeescript": "^2.4.0"
+  }
+}
